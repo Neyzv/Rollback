@@ -1,0 +1,42 @@
+﻿namespace Rollback.World.CustomEnums
+{
+    public enum GuildRank : short
+    {
+        Essai,
+        Meneur,
+        BrasDroit,
+        Tresorier,
+        Protecteur,
+        Artisan,
+        Reserviste,
+        Larbin,
+        Gardien,
+        Eclaireur,
+        Espion,
+        Diplomate,
+        Secretaire,
+        Penitent,
+        Boulet,
+        Deserteur,
+        Bourreau,
+        Apprentit,
+        Marchand,
+        Eleveur,
+        Recruteur,
+        Guide,
+        Mentor,
+        Elu,
+        Conseiller,
+        Muse,
+        Gouverneur,
+        Assassin,
+        Initie,
+        Voleur,
+        ChercheurDeTresor,
+        Braconnier,
+        Traitre,
+        TueurDeFamilliers,
+        Mascotte,
+        TueurDePercepteur
+    }
+}
